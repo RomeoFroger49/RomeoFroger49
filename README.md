@@ -14,9 +14,8 @@
 
 <br>
 
-- ⭐️ A passionate and still in training Front-end developer
-- 🌱 Currently learning different language as Java, PHP, C and Python
-- 👓 I’m currently searching for a work-linked training course
+- ⭐️ A passionate and still-in-training Front-end developer
+- 🌱 Currently learning Ops competencies as system administration and containers  
 
 <br><br>
 
